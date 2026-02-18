@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.cache
+*.log
+.git/
+.gitignore
+README.md
+*.md
+node_modules/
+

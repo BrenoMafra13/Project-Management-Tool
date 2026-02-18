@@ -11892,11 +11892,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brenolopesmafra/RiderProjects/WebApplication1/WebApplication1/WebApplication1.csproj",
+      "projectUniqueName": "/Users/brenolopesmafra/Documents/Project-Management-Tool/WebApplication1/WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "/Users/brenolopesmafra/RiderProjects/WebApplication1/WebApplication1/WebApplication1.csproj",
+      "projectPath": "/Users/brenolopesmafra/Documents/Project-Management-Tool/WebApplication1/WebApplication1.csproj",
       "packagesPath": "/Users/brenolopesmafra/.nuget/packages/",
-      "outputPath": "/Users/brenolopesmafra/RiderProjects/WebApplication1/WebApplication1/obj/",
+      "outputPath": "/Users/brenolopesmafra/Documents/Project-Management-Tool/WebApplication1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/brenolopesmafra/.nuget/NuGet/NuGet.Config"
@@ -11923,7 +11923,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -11987,6 +11987,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.13, 9.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[9.0.13, 9.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[9.0.13, 9.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -11995,7 +12009,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

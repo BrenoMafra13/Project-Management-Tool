@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "21C2IhuiJX8=",
+  "dgSpecHash": "c7s4gAR+40w=",
   "success": true,
-  "projectFilePath": "/Users/brenolopesmafra/RiderProjects/WebApplication1/WebApplication1/WebApplication1.csproj",
+  "projectFilePath": "/Users/brenolopesmafra/Documents/Project-Management-Tool/WebApplication1/WebApplication1.csproj",
   "expectedPackageFiles": [
     "/Users/brenolopesmafra/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/brenolopesmafra/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
@@ -228,7 +228,10 @@
     "/Users/brenolopesmafra/.nuget/packages/system.threading.tasks.extensions/4.3.0/system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "/Users/brenolopesmafra/.nuget/packages/system.threading.timer/4.3.0/system.threading.timer.4.3.0.nupkg.sha512",
     "/Users/brenolopesmafra/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "/Users/brenolopesmafra/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512"
+    "/Users/brenolopesmafra/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
+    "/Users/brenolopesmafra/.nuget/packages/microsoft.netcore.app.ref/9.0.13/microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "/Users/brenolopesmafra/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.13/microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
+    "/Users/brenolopesmafra/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.13/microsoft.netcore.app.host.osx-arm64.9.0.13.nupkg.sha512"
   ],
   "logs": []
 }
